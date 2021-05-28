@@ -9,8 +9,10 @@ p {
 
 .box {
     background-color: aqua;
-    border: 2;
+    border-color: black;
+    border: 2px;
     border-radius: 10px;
     padding : 25px;
-    
+    width: min-content;
+    height: auto;
 }
