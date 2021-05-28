@@ -4,4 +4,13 @@ p {
     border: 1px;
     padding: 15mm;
     border-radius: 30px;
+    font-style: italic;
+}
+
+.box {
+    background-color: aqua;
+    border: 2;
+    border-radius: 10px;
+    padding : 25px;
+    
 }
